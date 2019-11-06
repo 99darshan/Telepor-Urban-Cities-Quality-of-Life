@@ -1,7 +1,4 @@
 import React, { Component } from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faHome } from "@fortawesome/free-solid-svg-icons";
-
 export default class QualityIndicator extends Component {
   render() {
     return (

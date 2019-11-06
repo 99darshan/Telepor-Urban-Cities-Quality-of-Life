@@ -3,7 +3,7 @@ import DropdownSelect from "react-dropdown-select";
 import styled from "styled-components";
 import QualityIndicator from "../components/QualityIndicator";
 
-export default class Home extends Component {
+export default class HomePage extends Component {
   state = {
     urbanCities: [],
     qualityScores: [],
